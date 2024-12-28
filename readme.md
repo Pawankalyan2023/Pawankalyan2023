@@ -69,4 +69,4 @@
 [![An image of @pawankalyan2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pawankalyan2023)](https://holopin.io/@pawankalyan2023)
 
 
-<!-- <img src="https://raw.githubusercontent.com/Pawankalyan2023/Pawankalyan2023/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/Pawankalyan2023/Pawankalyan2023/output/snake.svg" alt="Snake animation" />
