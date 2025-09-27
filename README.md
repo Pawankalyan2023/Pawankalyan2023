@@ -46,9 +46,6 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-<h3 align="left">SWOC 2025 Contributor</h3>
-<img src = "assets\Contributor Badge.png"></img>
-
 <br/>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 <br/>
