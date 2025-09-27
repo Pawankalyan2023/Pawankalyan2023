@@ -14,7 +14,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on **OSC**
+- 🔭 I’m currently working on **KPI Partners** as **Data Engineer - I**
 
 - 👨‍💻 All of my projects are available at [GettoKnowMehere](GettoKnowMehere)
 
