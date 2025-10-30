@@ -1,4 +1,4 @@
-<img src="assets\header.png"><img/>
+<!-- <img src="assets\header.png"><img/> -->
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankalyan2023&label=Profile%20views&color=0e75b6&style=flat" alt="pawankalyan2023" /> </p> -->
@@ -6,10 +6,11 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawankalyan2023" alt="pawankalyan2023" /></a> </p> -->
 
 
+[![An image of @pawankalyan2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pawankalyan2023)](https://holopin.io/@pawankalyan2023)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pawankalyan2023&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 
 ## About Me:
@@ -46,9 +47,9 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-<br/>
+<!-- <br/>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-<br/>
+<br/> -->
 
 ## 📊 GitHub Stats:
 
@@ -66,9 +67,7 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-### Holopins
 
-[![An image of @pawankalyan2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pawankalyan2023)](https://holopin.io/@pawankalyan2023)
 
 
 <!-- <img src="https://raw.githubusercontent.com/Pawankalyan2023/Pawankalyan2023/output/snake.svg" alt="Snake animation" /> -->
